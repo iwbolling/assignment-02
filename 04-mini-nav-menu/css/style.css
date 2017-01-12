@@ -1,0 +1,21 @@
+#alles{font-family: "Futura";}
+
+.statusbar p{
+  font-size: 12px;
+}
+
+.currenthashtag {
+  color: lightgray;
+}
+
+.buttons p{
+  background-color: rgb(205,92,92);
+  color: white;
+  display: inline-block;
+  font-size: 14px;
+  padding: 6px;
+}
+
+.searchbar{
+  display: inline-block;
+}

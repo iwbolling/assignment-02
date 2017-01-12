@@ -1,0 +1,17 @@
+#socialbox{
+  border-top: 0px;
+  border-bottom: 2px solid black;
+  display: inline-block;
+  width: 1150px;
+}
+
+#socialbox p{
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.text p{
+  font-family: "Sans-Serif";
+  font-size: 11px;
+  margin-top: 0px;
+}
